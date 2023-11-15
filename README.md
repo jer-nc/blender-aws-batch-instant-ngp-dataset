@@ -8,7 +8,7 @@ _Instant-ngp_ - [GitHub - NVlabs/instant-ngp: Instant neural graphics primitives
 
 This repository contains the code and Dockerfile to generate a synthetic dataset for [Instant-NGP](https://github.com/jer-nc/instant-ngp-blender-addon) using [Blender](https://www.blender.org/) and [AWS Batch](https://aws.amazon.com/batch/).
 
-> Note: The Docker image contains the .blend scene; for now, this logic works according to the scene contained in the Docker image.
+> Note: The Docker image contains the .blend scene, for now, this logic works according to the scene contained in the Docker image.
 
 
 ![dataset](./assets/s3_1.png)
@@ -109,7 +109,7 @@ Adjust the S3 bucket name and paths in the scripts according to your setup.
 - AWS Batch CDK Blender: [cdk-blender-render](https://github.com/mattiamatrix/cdk-blender-render).
 - BlenderNerf Repo - [BlenderNerf Github](https://github.com/maximeraafat/BlenderNeRF)
 - GitHub - NVlabs/instant-ngp: Instant neural graphics primitives https://github.com/NVlabs/instant-ngp.
-- Batch Processing - AWS Batch - AWS. https://aws.amazon.com/batch/.
+- Batch Processing - AWS Batch. https://aws.amazon.com/batch/.
 
 ## License
 
