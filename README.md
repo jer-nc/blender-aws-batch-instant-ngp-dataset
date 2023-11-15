@@ -101,7 +101,7 @@ Adjust the S3 bucket name and paths in the scripts according to your setup.
 - AWS Batch CDK Blender: [cdk-blender-render](https://github.com/mattiamatrix/cdk-blender-render).
 - BlenderNerf Repo - [BlenderNerf Github](https://github.com/maximeraafat/BlenderNeRF)
 - GitHub - NVlabs/instant-ngp: Instant neural graphics primitives https://github.com/NVlabs/instant-ngp.
-- Batch Processing - AWS Batch - AWS. https://aws.amazon.com/batch/.
+- Batch Processing - AWS Batch. https://aws.amazon.com/batch/.
 
 ## License
 
