@@ -39,7 +39,7 @@ You need to work with the scene `.blend` using the [instant-ngp-blender-addon](h
 The Dockerfile provided in this repository sets up the environment with the required dependencies. It includes:
 
 - Ubuntu 22.04 as the base image.
-- Blender version 4.0 downloaded from [Blender official releases](https://www.blender.org/download/).
+- Blender version 4.0.
 - Additional dependencies for Blender and Python.
 
 > Note: Currently, the .blend scene is configured with an animation of 50 frames, 5 samples, and a 4k resolution.
