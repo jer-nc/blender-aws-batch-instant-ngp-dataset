@@ -15,7 +15,7 @@ This repository contains the code and Dockerfile to generate a synthetic dataset
 ![dataset](./assets/s3_2.png)
 
 ## Motivation
-We created this addon & AWS Batch system to understand how the Instant-NGP and NeRF concepts work in general.
+We created this [addon](https://github.com/jer-nc/instant-ngp-blender-addon) & AWS Batch system to understand how the Instant-NGP and NeRF concepts work in general.
 
 While not experts in the field, we are currently conducting cloud rendering tests with AWS Batch and Blender. We thought we could generate a simplified addon to quickly create datasets with AWS Batch, allowing us to render each frame in parallel and create the `transforms_train.json` file in minutes.
 
